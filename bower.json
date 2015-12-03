@@ -1,0 +1,18 @@
+{
+  "name": "wooh-frontend",
+  "description": "the frontend of wooh.be",
+  "main": "index.js",
+  "authors": [
+    "Hans Scheuren <hans.scheuren@bizliner.be>"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/woohoriginalofficestore/wooh-frontend",
+  "moduleType": [],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
