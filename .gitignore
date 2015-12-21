@@ -28,3 +28,7 @@ node_modules
 
 # bower module directory
 bower_components
+
+#sublime text
+*.sublime-workspace
+*.sublime-project
