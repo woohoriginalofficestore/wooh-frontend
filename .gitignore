@@ -32,3 +32,6 @@ bower_components
 #sublime text
 *.sublime-workspace
 *.sublime-project
+
+# remove build folder
+dist/
